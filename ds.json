@@ -1,0 +1,70 @@
+[
+    
+    {
+        "title": "Vuelta a España",
+        "league": "Etapa 4",
+        "img": "8a859b20-60f8-4b5b-9f50-d4f7e3789999",
+        "url": "/embed/eventos/?r=aHR0cHM6Ly9hbnRhZy54eXovZHMuaHRtbD9nZXQ9aHR0cHM6Ly9saXZlLWZ0Yy1zYS1lYXN0LTIubWVkaWEuZHNzb3R0LmNvbS9jbHQyL3ZhMDEvZGlzbmV5cGx1cy9ldmVudC8yMDI0LzA4LzIwLzIwMjRfTGFfVnVlbHRhX1N0YWdlXzRfMjAyNDA4MjBfMTcyNDE1ODMwMzYwNS9jdHItYWxsLXNsaWRpbmcubTN1OCZrZXk9MTE4NzgwNmViYTBmNGYwMDkxOGMxNTkyMWM2ZWJlOTMma2V5Mj1jMTBjYjljNGJkZDQ4NzUwMDI3ZTBlOWEzZTA5Njc3Yw==",
+        "status": "EN VIVO",
+        "statusstart": "6:30 p. m.",
+        "statusfin": "08:30 p. m.",
+        "id": 5673
+        
+    },
+    {
+        "title": "Dinamo Zagreb vs Qarabağ",
+        "league": "UEFA Champions League | Clasificación",
+        "img": "6cbdf742-eb6a-4428-be58-60449d2bedbc",
+        "url": "#",
+        "status": "21:00",
+        "statusstart": "6:30 p. m.",
+        "statusfin": "08:30 p. m.",
+        "id": 5673
+        
+    },
+    {
+        "title": "Bodø / Glimt vs Crvena Zvezda",
+        "league": "UEFA Champions League | Clasificación",
+        "img": "063c4e7a-7045-43ef-bd3f-da7bf4468faf",
+        "url": "#",
+        "status": "21:00",
+        "statusstart": "6:30 p. m.",
+        "statusfin": "08:30 p. m.",
+        "id": 5673
+        
+    },
+    {
+        "title": "Lille vs Slavia Praha",
+        "league": "UEFA Champions League | Clasificación",
+        "img": "1452fe12-529a-4869-a8b2-28e4637ed060",
+        "url": "#",
+        "status": "21:00",
+        "statusstart": "6:30 p. m.",
+        "statusfin": "08:30 p. m.",
+        "id": 5673
+        
+    },
+    {
+        "title": "Fluminense vs Grêmio",
+        "league": "Copa Libertadores",
+        "img": "0f5b225b-b1b6-4ca7-8d11-27317e293e09",
+        "url": "#",
+        "status": "00:00",
+        "statusstart": "6:30 p. m.",
+        "statusfin": "08:30 p. m.",
+        "id": 5673
+        
+    },
+    {
+        "title": "Junior vs Colo-Colo",
+        "league": "Copa Libertadores",
+        "img": "a104515f-a492-4da6-bff4-6b32c308cfba",
+        "url": "#",
+        "status": "02:30",
+        "statusstart": "6:30 p. m.",
+        "statusfin": "08:30 p. m.",
+        "id": 5673
+        
+    }
+
+]
